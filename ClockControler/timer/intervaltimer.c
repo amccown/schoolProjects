@@ -28,9 +28,6 @@ Definitions for peripheral AXI_TIMER_1
  *
  */
 #include <inttypes.h>
-
-#include "supportFiles/utils.h"
-
 #include "intervaltimer.h"
 #include <stdio.h>
 #include <xparameters.h>
